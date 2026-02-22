@@ -1,54 +1,75 @@
-👋 Hi, I'm Parth Tyagi
+<h1 align="center">Parth Tyagi</h1>
+<p align="center">
+  AI/ML Engineer in Progress | Applied Machine Learning | NLP | Recommendation Systems
+</p>
+<p align="center">
+  B.Tech – Mathematics & Computing
+</p>
 
-🎓 B.Tech in Mathematics & Computing
-🤖 Aspiring AI/ML Engineer | Data Science Enthusiast
-📍 India
+---
 
-🚀 About Me
+## 👨‍💻 About Me
+- Mathematics & Computing undergraduate focused on AI/ML
+- Building end-to-end ML pipelines: data → modeling → deployment
+- Hands-on projects in NLP, recommendation systems, and predictive modeling
+- Interested in real-world intelligent systems and product-focused ML
 
-I am a highly motivated AI/ML enthusiast with a strong foundation in mathematics, statistics, and problem-solving. I specialize in building data-driven solutions and deploying machine learning applications that solve real-world problems.
+---
 
-I enjoy working on end-to-end ML pipelines — from data preprocessing and exploratory analysis to model building, evaluation, and deployment. My goal is to contribute to impactful AI systems while continuously learning advanced ML and Generative AI techniques.
+## 🧰 Tech Stack
 
-💼 What I Bring to the Table
+### Programming
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
 
-✔ Strong foundation in Machine Learning fundamentals
-✔ Hands-on experience with real-world ML projects
-✔ Experience in NLP-based applications
-✔ Ability to deploy ML applications using Streamlit
-✔ Analytical mindset backed by Mathematics & Computing background
-✔ Quick learner with strong problem-solving ability
+### Data / ML
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly)
+![Seaborn](https://img.shields.io/badge/Seaborn-000?style=for-the-badge)
 
-🛠️ Technical Skills
+### Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
 
-Languages & Tools:
-Python | SQL | Git | GitHub
+---
 
-Data & ML:
-Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn
-EDA | Feature Engineering | Model Evaluation
-Regression | Classification | Recommendation Systems | NLP
+## 📌 Featured Projects
+- **AI Job Skill Gap Analyzer** — NLP-based analysis of job descriptions + skill gap insights + Streamlit deployment  
+- **Movie Recommendation System** — similarity-based personalized recommendations + Streamlit app  
+- **Fitness Recommendation / Prediction** — ML-based personalized insights from user data  
 
-Deployment:
-Streamlit | End-to-End ML Application Development
+🔗 Live Apps:
+- Job Skill Gap Analyzer: https://ai-job-skill-gap-analyzer.streamlit.app/
+- Movie Recommender: https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app
 
-📌 Featured Projects
+---
 
-🔹 AI Job Skill Gap Analyzer
-Built an NLP-driven system to analyze job descriptions and identify skill gaps between candidate profiles and industry requirements.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight" height="170"/>
+</p>
 
-🔹 Movie Recommendation System
-Developed a similarity-based recommendation engine to provide personalized movie suggestions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
-🔹 ML-Based Fitness Recommendation System
-Designed predictive models to generate personalized health and fitness insights based on user data.
+---
 
-🎯 Career Objective
+## 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthTyagi-tech&theme=tokyo-night)
 
-To secure an AI/ML Internship where I can apply my technical knowledge, contribute to innovative projects, and grow into a highly skilled Machine Learning Engineer working on production-level AI systems.
+---
 
-📫 Let's Connect
+## 🐍 Contribution Snake
+![snake animation](https://github.com/parthTyagi-tech/parthTyagi-tech/blob/output/github-contribution-grid-snake.svg)
 
-📧 Email: your-email@example.com
+---
 
-🔗 LinkedIn: (Add your LinkedIn link)
+## 🤝 Open to Opportunities
+I’m actively looking for **AI/ML Internship** opportunities (Remote / Bengaluru).  
+📩 Email: parthtyagi3389@gmail.com  
+🔗 LinkedIn: (paste your LinkedIn link here)
