@@ -51,14 +51,12 @@ Advanced ML Optimization • Backend API Integration • Scalable ML Systems
 Skill extraction + matching engine + deployed ML app  
 
 [🚀 Display App](https://ai-job-skill-gap-analyzer.streamlit.app/) • 
-[📂 View Repository]([YOUR_REPO_LINK](https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer.git))
 
 
 ### 🔹 Movie Recommendation System (TMDB)  
 Content-based recommender using tags + vectorization + cosine similarity  
 
 [🎬 Display App](https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/) • 
-[📂 View Repository]([YOUR_REPO_LINK](https://github.com/parthTyagi-tech/Movie-Recommend-System.git))
 
 
 
