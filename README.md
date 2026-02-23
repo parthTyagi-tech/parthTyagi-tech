@@ -1,32 +1,60 @@
 <h1 align="center">Parth Tyagi</h1>
 <p align="center">
-  <b>AI/ML Engineer in Progress</b> • Applied ML • NLP • Recommender Systems
+  <b>Applied Machine Learning Engineer</b> • NLP • Recommendation Systems • Data Science
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
   <a href="mailto:parthtyagi3389@gmail.com">Email</a> •
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Projects</a>
+  <a href="https://github.com/parthTyagi-tech?tab=repositories">All Projects</a>
 </p>
 
 ---
 
-## 👋 About
-- B.Tech (Mathematics & Computing) • India
-- Building end-to-end ML: **data → features → modeling → evaluation → deployment**
-- Currently focused on: **Recommendation Systems + NLP + ML Pipelines**
+## 🚀 About Me
 
-## 🧰 Tech Stack
+- 🎓 B.Tech — Mathematics & Computing  
+- 🤖 Focused on Applied AI & Machine Learning  
+- 🧠 Building end-to-end ML systems: data → features → modeling → evaluation → deployment  
+- 🎯 Interested in real-world intelligent systems & product-focused ML  
+
+---
+
+## 🛠 Tech Stack
+
 **Programming:** Python • SQL • Git • GitHub  
-**Data/ML:** Pandas • NumPy • scikit-learn • Matplotlib  
-**Deployment:** Streamlit (and learning backend APIs next)
+**Data & ML:** Pandas • NumPy • scikit-learn • Matplotlib • Seaborn  
+**Deployment:** Streamlit  
+**Currently Learning:** Advanced ML tuning + Backend APIs  
+
+---
 
 ## ⭐ Featured Projects
-- **AI Job & Skill Gap Analyzer** — skill extraction + matching + Streamlit app  
-  → Live: `YOUR_STREAMLIT_LINK` • Repo: `YOUR_REPO_LINK`
-- **Movie Recommendation System (TMDB)** — content-based recsys (tags + vectorization + cosine similarity)  
-  → Live: `YOUR_STREAMLIT_LINK` • Repo: `YOUR_REPO_LINK`
-- **(Add 1 more)** — NLP / classification project (short 1-liner)
+
+### 🔹 AI Job & Skill Gap Analyzer
+Skill extraction + matching engine + deployed Streamlit app  
+→ Live: YOUR_STREAMLIT_LINK  
+→ Repo: YOUR_REPO_LINK  
+
+### 🔹 Movie Recommendation System (TMDB)
+Content-based recommender using tags + vectorization + cosine similarity  
+→ Live: YOUR_STREAMLIT_LINK  
+→ Repo: YOUR_REPO_LINK  
+
+### 🔹 (Add One NLP / ML Project Here)
+Short powerful 1-line description  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -41,15 +69,17 @@
 ---
 
 ## 📌 Quick Proof of Work
-- ✅ Built ML pipelines with `ColumnTransformer + Pipeline`
-- ✅ Tuned models with `GridSearchCV`
-- ✅ Deployed apps using Streamlit
 
-<details>
-  <summary>What I’m learning next</summary>
+- ✅ Built ML pipelines using `ColumnTransformer + Pipeline`
+- ✅ Hyperparameter tuning with `GridSearchCV`
+- ✅ Cross-validation & evaluation metrics
+- ✅ Deployed real ML apps
+- ✅ Clean GitHub documentation & reproducible projects
 
-- SQL (joins + window functions)
-- Better ML evaluation + feature engineering
-- Backend API for ML (Flask/FastAPI) after 1–2 more solid projects
+---
 
-</details>
+## 🎯 2026 Goals
+
+- Strengthen SQL & data querying
+- Build production-ready ML APIs
+- Contribute to open-source ML projects
