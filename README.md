@@ -1,75 +1,54 @@
 <h1 align="center">Parth Tyagi</h1>
 <p align="center">
-  AI/ML Engineer in Progress | Applied Machine Learning | NLP | Recommendation Systems
+  <b>AI/ML Engineer in Progress</b> • Applied ML • NLP • Recommender Systems
 </p>
+
 <p align="center">
-  B.Tech – Mathematics & Computing
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a> •
+  <a href="mailto:parthtyagi3389@gmail.com">Email</a> •
+  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Projects</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- Mathematics & Computing undergraduate focused on AI/ML
-- Building end-to-end ML pipelines: data → modeling → deployment
-- Hands-on projects in NLP, recommendation systems, and predictive modeling
-- Interested in real-world intelligent systems and product-focused ML
-
----
+## 👋 About
+- B.Tech (Mathematics & Computing) • India
+- Building end-to-end ML: **data → features → modeling → evaluation → deployment**
+- Currently focused on: **Recommendation Systems + NLP + ML Pipelines**
 
 ## 🧰 Tech Stack
+**Programming:** Python • SQL • Git • GitHub  
+**Data/ML:** Pandas • NumPy • scikit-learn • Matplotlib  
+**Deployment:** Streamlit (and learning backend APIs next)
 
-### Programming
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
-### Data / ML
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=for-the-badge&logo=plotly)
-![Seaborn](https://img.shields.io/badge/Seaborn-000?style=for-the-badge)
-
-### Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-000?style=for-the-badge&logo=streamlit)
+## ⭐ Featured Projects
+- **AI Job & Skill Gap Analyzer** — skill extraction + matching + Streamlit app  
+  → Live: `YOUR_STREAMLIT_LINK` • Repo: `YOUR_REPO_LINK`
+- **Movie Recommendation System (TMDB)** — content-based recsys (tags + vectorization + cosine similarity)  
+  → Live: `YOUR_STREAMLIT_LINK` • Repo: `YOUR_REPO_LINK`
+- **(Add 1 more)** — NLP / classification project (short 1-liner)
 
 ---
 
-## 📌 Featured Projects
-- **AI Job Skill Gap Analyzer** — NLP-based analysis of job descriptions + skill gap insights + Streamlit deployment  
-- **Movie Recommendation System** — similarity-based personalized recommendations + Streamlit app  
-- **Fitness Recommendation / Prediction** — ML-based personalized insights from user data  
-
-🔗 Live Apps:
-- Job Skill Gap Analyzer: https://ai-job-skill-gap-analyzer.streamlit.app/
-- Movie Recommender: https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app
+## 🟡 Pac-Man Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight" height="170"/>
-</p>
+## 📌 Quick Proof of Work
+- ✅ Built ML pipelines with `ColumnTransformer + Pipeline`
+- ✅ Tuned models with `GridSearchCV`
+- ✅ Deployed apps using Streamlit
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<details>
+  <summary>What I’m learning next</summary>
 
----
+- SQL (joins + window functions)
+- Better ML evaluation + feature engineering
+- Backend API for ML (Flask/FastAPI) after 1–2 more solid projects
 
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=parthTyagi-tech&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-![snake animation](https://github.com/parthTyagi-tech/parthTyagi-tech/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🤝 Open to Opportunities
-I’m actively looking for **AI/ML Internship** opportunities (Remote / Bengaluru).  
-📩 Email: parthtyagi3389@gmail.com  
-🔗 LinkedIn: (paste your LinkedIn link here)
+</details>
