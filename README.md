@@ -11,38 +11,57 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech — Mathematics & Computing  
-- 🤖 Focused on Applied AI & Machine Learning  
-- 🧠 Building end-to-end ML systems: data → features → modeling → evaluation → deployment  
-- 🎯 Interested in real-world intelligent systems & product-focused ML  
+-  B.Tech — Mathematics & Computing  
+-  Focused on Applied AI & Machine Learning  
+-  Building end-to-end ML systems: data → features → modeling → evaluation → deployment  
+-  Interested in real-world intelligent systems & product-focused ML  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Expertise
 
-**Programming:** Python • SQL • Git • GitHub  
-**Data & ML:** Pandas • NumPy • scikit-learn • Matplotlib • Seaborn  
-**Deployment:** Streamlit  
-**Currently Learning:** Advanced ML tuning + Backend APIs  
+### 🧩 Programming & Development
+Python (Advanced) • SQL • Git Version Control • GitHub Workflow
+
+### 📊 Data Engineering & Analysis
+Pandas • NumPy • Data Cleaning • Feature Engineering • EDA
+
+### 🤖 Machine Learning
+scikit-learn • Model Selection • Cross-Validation • Hyperparameter Tuning  
+Pipeline Architecture • ColumnTransformer • Model Evaluation Metrics
+
+### 📈 Visualization
+Matplotlib • Seaborn
+
+### 🚀 Deployment & Tooling
+Streamlit • Model Serialization (Pickle) • REST API (Learning)
+
+### 📚 Currently Expanding
+Advanced ML Optimization • Backend API Integration • Scalable ML Systems
+
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 AI Job & Skill Gap Analyzer
-Skill extraction + matching engine + deployed Streamlit app  
-→ Live: YOUR_STREAMLIT_LINK  
-→ Repo: YOUR_REPO_LINK  
+ 
+### 🔹 AI Job & Skill Gap Analyzer  
+Skill extraction + matching engine + deployed ML app  
 
-### 🔹 Movie Recommendation System (TMDB)
+[🚀 Display App](https://ai-job-skill-gap-analyzer.streamlit.app/) • 
+[📂 View Repository]([YOUR_REPO_LINK](https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer.git))
+
+
+### 🔹 Movie Recommendation System (TMDB)  
 Content-based recommender using tags + vectorization + cosine similarity  
-→ Live: YOUR_STREAMLIT_LINK  
-→ Repo: YOUR_REPO_LINK  
 
-### 🔹 (Add One NLP / ML Project Here)
-Short powerful 1-line description  
+[🎬 Display App](https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/) • 
+[📂 View Repository]([YOUR_REPO_LINK](https://github.com/parthTyagi-tech/Movie-Recommend-System.git))
+
+
+
 
 ---
 
