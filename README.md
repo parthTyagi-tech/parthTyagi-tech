@@ -11,12 +11,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#60100112140814190107095353585920070d01090c4e030f0d">
+  <a href="mailto:parthtyagi3389@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/parthTyagi-tech?tab=repositories">
     <img src="https://img.shields.io/badge/All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://parthtyagi-tech.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -45,6 +49,7 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 **🎯 Focus** &nbsp;&nbsp;&nbsp;&nbsp; Applied AI & Machine Learning  
 **🔁 Approach** &nbsp; Data → Model → Deploy  
 **📍 Status** &nbsp;&nbsp;&nbsp;&nbsp; Open to ML Engineering roles  
+**🌐 Portfolio** &nbsp; [parthtyagi-tech.github.io/portfolio](https://parthtyagi-tech.github.io/portfolio/)
 
 <br/>
 
@@ -189,6 +194,12 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://parthtyagi-tech.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio%20Website-58A6FF?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -225,6 +236,7 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 | ✅ Feature engineering | Encoding, scaling, correlation analysis |
 | ✅ Production deployment | 3 live Streamlit apps |
 | ✅ Clean documentation | Reproducible notebooks & professional READMEs |
+| ✅ Portfolio website | Full 3D animated portfolio — [visit here](https://parthtyagi-tech.github.io/portfolio/) |
 
 ---
 
@@ -240,4 +252,10 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p align="center">
   <i>"Build things that work. Document things that last."</i>
+</p>
+
+<p align="center">
+  <a href="https://parthtyagi-tech.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-parthtyagi--tech.github.io%2Fportfolio-58A6FF?style=flat-square" />
+  </a>
 </p>
