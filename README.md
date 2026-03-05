@@ -1,81 +1,184 @@
-<h1 align="center">Parth Tyagi</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Parth+Tyagi+%F0%9F%91%8B;Applied+ML+Engineer;Building+AI+Systems+End-to-End" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <b>Applied Machine Learning Engineer</b> • NLP • Recommendation Systems • Data Science
+  <b>Applied Machine Learning Engineer</b> &nbsp;•&nbsp; NLP &nbsp;•&nbsp; Recommendation Systems &nbsp;•&nbsp; Data Science
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
-  <a href="mailto:parthtyagi3389@gmail.com">Email</a> •
-  <a href="https://github.com/parthTyagi-tech?tab=repositories">All Projects</a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:parthtyagi3389@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthTyagi-tech?tab=repositories">
+    <img src="https://img.shields.io/badge/All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
+
+<br/>
 
 ---
 
-##  About Me
+## 🧑‍💻 About Me
 
--  B.Tech — Mathematics & Computing  
--  Focused on Applied AI & Machine Learning  
--  Building end-to-end ML systems: data → features → modeling → evaluation → deployment  
--  Interested in real-world intelligent systems & product-focused ML  
+```python
+parth = {
+    "degree"   : "B.Tech — Mathematics & Computing",
+    "focus"    : "Applied AI & Machine Learning",
+    "approach" : "Data → Features → Modeling → Evaluation → Deployment",
+    "interests": ["Real-world intelligent systems", "Product-focused ML", "End-to-end pipelines"],
+    "status"   : "Open to ML engineering opportunities 🚀"
+}
+```
 
 ---
 
 ## 🛠 Technical Expertise
 
-### 🧩 Programming & Development
-Python (Advanced) • SQL • Git Version Control • GitHub Workflow
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 📊 Data Engineering & Analysis
-Pandas • NumPy • Data Cleaning • Feature Engineering • EDA
+**🧩 Programming & Development**
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white)
 
-### 🤖 Machine Learning
-scikit-learn • Model Selection • Cross-Validation • Hyperparameter Tuning  
-Pipeline Architecture • ColumnTransformer • Model Evaluation Metrics
+**📊 Data Engineering & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-Feature%20Engineering-orange?style=flat-square)
 
-### 📈 Visualization
-Matplotlib • Seaborn
+**📈 Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
-### 🚀 Deployment & Tooling
-Streamlit • Model Serialization (Pickle) • REST API (Learning)
+</td>
+<td valign="top" width="50%">
 
-### 📚 Currently Expanding
-Advanced ML Optimization • Backend API Integration • Scalable ML Systems
+**🤖 Machine Learning**
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=flat-square)
+![Pipelines](https://img.shields.io/badge/ML%20Pipelines-ColumnTransformer-green?style=flat-square)
+![GridSearchCV](https://img.shields.io/badge/GridSearchCV-Hyperparameter%20Tuning-blueviolet?style=flat-square)
 
+**🚀 Deployment & Tooling**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-yellow?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-Learning-lightgrey?style=flat-square)
+
+**📚 Currently Expanding**
+![Advanced ML](https://img.shields.io/badge/Advanced%20ML%20Optimization-in%20progress-orange?style=flat-square)
+![Backend](https://img.shields.io/badge/Backend%20API%20Integration-in%20progress-orange?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## ⭐ Featured Projects
 
- 
-### 🔹 AI Job & Skill Gap Analyzer  
-Skill extraction + matching engine + deployed ML app  
+<table>
+<tr>
 
-[🚀 Display App](https://ai-job-skill-gap-analyzer.streamlit.app/) • 
+<td width="33%" valign="top">
 
+### 🏋️ AI Fitness Intelligence System
+> End-to-end body composition prediction + personalised workout planning engine
 
-### 🔹 Movie Recommendation System (TMDB)  
-Content-based recommender using tags + vectorization + cosine similarity  
+- 🔬 Predicts **body fat %** from 12 physiological inputs
+- ⚔️ **XGBoost vs Linear Regression** — model comparison pipeline
+- 🏠 Home & gym workout plan generator
+- 🧹 Full data cleaning: IQR capping, encoding, scaling
+- 📊 R² = **0.995** &nbsp;|&nbsp; MAE = **0.21%**
 
-[🎬 Display App](https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/) • 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0E76A8?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+<p>
+  <a href="https://ai-driven-fitness-intelligence-systemgit-xt9iwnappfn2qmgudqduc.streamlit.app">
+    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthTyagi-tech/AI-Driven-Fitness-Intelligence-System">
+    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
+</td>
 
+<td width="33%" valign="top">
+
+### 🔍 AI Job & Skill Gap Analyzer
+> Skill extraction + matching engine + deployed ML app
+
+- 🧠 Extracts skills from job descriptions using NLP
+- 📊 Matches user profile against role requirements
+- 📉 Highlights skill gaps with actionable insights
+- 🚀 Fully deployed Streamlit application
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<p>
+  <a href="https://ai-job-skill-gap-analyzer.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎬 Movie Recommendation System
+> Content-based recommender using TMDB data
+
+- 🎯 Content-based filtering on tags + metadata
+- 🔢 TF-IDF vectorization + cosine similarity
+- 🎥 Recommends top-N similar movies instantly
+- 🚀 Fully deployed Streamlit application
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<p>
+  <a href="https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-## 🟡 Pac-Man Contribution Graph
+## 🟡 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthTyagi-tech/parthTyagi-tech/output/pacman-contribution-graph-dark.svg">
@@ -85,18 +188,34 @@ Content-based recommender using tags + vectorization + cosine similarity
 
 ---
 
-## 📌 Quick Proof of Work
+## 📌 Proof of Work
 
-- ✅ Built ML pipelines using `ColumnTransformer + Pipeline`
-- ✅ Hyperparameter tuning with `GridSearchCV`
-- ✅ Cross-validation & evaluation metrics
-- ✅ Deployed real ML apps
-- ✅ Clean GitHub documentation & reproducible projects
+| Skill | Evidence |
+|-------|----------|
+| ✅ End-to-end ML pipelines | `ColumnTransformer + Pipeline` across all projects |
+| ✅ Model comparison & selection | LR vs XGBoost — evaluated on R², MAE, RMSE |
+| ✅ Outlier treatment | IQR capping, winsorization, z-score methods |
+| ✅ Hyperparameter tuning | `GridSearchCV` with cross-validation |
+| ✅ Feature engineering | Encoding, scaling, correlation analysis |
+| ✅ Production deployment | 3 live Streamlit apps |
+| ✅ Clean documentation | Reproducible notebooks & professional READMEs |
 
 ---
 
 ## 🎯 2026 Goals
 
-- Strengthen SQL & data querying
-- Build production-ready ML APIs
-- Contribute to open-source ML projects
+- [ ] Strengthen SQL & advanced data querying
+- [ ] Build production-ready ML REST APIs
+- [ ] Contribute to open-source ML projects
+- [ ] Work on real-world datasets beyond synthetic data
+- [ ] Learn LLM fine-tuning & RAG pipelines
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parthTyagi-tech&label=Profile%20Views&color=58A6FF&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>"Build things that work. Document things that last."</i>
+</p>
