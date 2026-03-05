@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:parthtyagi3389@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#60100112140814190107095353585920070d01090c4e030f0d">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -26,15 +26,33 @@
 
 ## 🧑‍💻 About Me
 
-```python
-parth = {
-    "degree"   : "B.Tech — Mathematics & Computing",
-    "focus"    : "Applied AI & Machine Learning",
-    "approach" : "Data → Features → Modeling → Evaluation → Deployment",
-    "interests": ["Real-world intelligent systems", "Product-focused ML", "End-to-end pipelines"],
-    "status"   : "Open to ML engineering opportunities 🚀"
-}
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm a **B.Tech student in Mathematics & Computing** with a focused interest in **Applied Machine Learning** and **AI system design**.
+
+My work centres on building complete, production-ready ML pipelines — from raw data and feature engineering through to model evaluation and live deployment. I value clean code, honest model evaluation, and systems that actually work outside of notebooks.
+
+Currently building towards a career in **ML Engineering**, with hands-on experience across regression, NLP, and recommendation systems — all deployed as real applications.
+
+> *"Build things that work. Document things that last."*
+
+</td>
+<td width="40%" valign="top">
+
+**🎓 Degree** &nbsp;&nbsp; B.Tech — Mathematics & Computing  
+**🎯 Focus** &nbsp;&nbsp;&nbsp;&nbsp; Applied AI & Machine Learning  
+**🔁 Approach** &nbsp; Data → Model → Deploy  
+**📍 Status** &nbsp;&nbsp;&nbsp;&nbsp; Open to ML Engineering roles  
+
+<br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=parthTyagi-tech&label=Profile+Views&color=58A6FF&style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -134,6 +152,10 @@ parth = {
   <a href="https://ai-job-skill-gap-analyzer.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
   </a>
+  &nbsp;
+  <a href="https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer">
+    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 </td>
@@ -155,6 +177,10 @@ parth = {
 <p>
   <a href="https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthTyagi-tech/Movie-Recommend-System">
+    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -211,10 +237,6 @@ parth = {
 - [ ] Learn LLM fine-tuning & RAG pipelines
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthTyagi-tech&label=Profile%20Views&color=58A6FF&style=flat-square" />
-</p>
 
 <p align="center">
   <i>"Build things that work. Document things that last."</i>
