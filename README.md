@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Parth+Tyagi+%F0%9F%91%8B;Applied+ML+Engineer;Building+AI+Systems+End-to-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Parth+Tyagi;Applied+ML+Engineer;Building+AI+Systems+End-to-End" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -215,15 +215,6 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-## 🟡 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parthTyagi-tech/parthTyagi-tech/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parthTyagi-tech/parthTyagi-tech/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/parthTyagi-tech/parthTyagi-tech/output/pacman-contribution-graph.svg">
-</picture>
-
----
 
 ## 📌 Proof of Work
 
@@ -240,13 +231,6 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] Strengthen SQL & advanced data querying
-- [ ] Build production-ready ML REST APIs
-- [ ] Contribute to open-source ML projects
-- [ ] Work on real-world datasets beyond synthetic data
-- [ ] Learn LLM fine-tuning & RAG pipelines
 
 ---
 
