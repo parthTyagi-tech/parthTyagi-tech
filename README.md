@@ -204,8 +204,6 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Developer Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthTyagi-tech&theme=tokyonight&hide_border=true" width="48%" />
