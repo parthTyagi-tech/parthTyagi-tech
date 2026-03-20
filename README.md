@@ -34,11 +34,13 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a **B.Tech student in Mathematics & Computing** with a focused interest in **Applied Machine Learning** and **AI system design**.
+I don't just build models — I build **systems that ship**.
 
-My work centres on building complete, production-ready ML pipelines — from raw data and feature engineering through to model evaluation and live deployment. I value clean code, honest model evaluation, and systems that actually work outside of notebooks.
+B.Tech in Mathematics & Computing, focused on the gap between a Jupyter notebook and a live product. Every project I work on goes from raw, messy data all the way to a deployed application that real users can open in a browser — no halfway done work.
 
-Currently building towards a career in **ML Engineering**, with hands-on experience across regression, NLP, recommendation systems, and full-stack Flask applications — all deployed as real, live applications.
+My edge is the full pipeline: I clean the data, engineer the features, compare the models rigorously, then wrap it in a backend and put it online. I have shipped 4 end-to-end AI applications, each one progressively more complex — the latest being a full-stack Flask platform with Google OAuth, PostgreSQL, a referral system, and live ML inference.
+
+Currently targeting **ML Engineering roles** where the expectation is working software, not just clean notebooks.
 
 > *"Build things that work. Document things that last."*
 
@@ -47,7 +49,7 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 **Degree** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Tech — Mathematics & Computing  
 **Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applied AI & Machine Learning  
-**Approach** &nbsp; Data → Model → Deploy  
+**Approach** &nbsp; Data → Model → Deploy → Iterate  
 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to ML Engineering roles  
 **Portfolio** &nbsp;&nbsp; [parthtyagi-tech.github.io/portfolio](https://parthtyagi-tech.github.io/portfolio/)
 
@@ -99,7 +101,7 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-yellow?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-Flask%20Backend-lightgrey?style=flat-square)
 
 **Currently Expanding**
@@ -115,28 +117,30 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ## Featured Projects
 
+<!-- Row 1 — Dark background -->
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### AI Fitness Intelligence Platform
-> Production-grade full-stack Flask application with ML-powered body fat prediction, Google OAuth, referral system, and progress tracking
+### AI FITNESS API
+> Production-grade full-stack Flask platform — the most complete project in this portfolio
 
-- Predicts body fat percentage from 12+ physiological inputs via XGBoost
-- Full authentication system — email/password and Google OAuth login
-- Guest prediction flow — try before signup, results saved on registration
-- Referral system with unique per-user referral links
+- ML-powered body fat prediction from 12+ biometric inputs via XGBoost
+- Full authentication — email/password login and Google OAuth
+- Guest prediction flow — try before signup, result auto-saved on register
+- Referral system with unique per-user referral links and tracking
 - Progress dashboard with body fat trend chart over time
 - Shareable result cards — WhatsApp, Twitter, clipboard
-- Custom weekly workout splits for gym and home training
-- Deployed on Render with PostgreSQL database
+- Custom weekly workout splits for gym and home
+- Deployed on Render with PostgreSQL — live in production
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0E76A8?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square)
+![Authlib](https://img.shields.io/badge/-Google%20OAuth-4285F4?style=flat-square&logo=google&logoColor=white)
 
 <p>
   <a href="https://ai-fitness-api-68n1.onrender.com">
@@ -152,14 +156,14 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <td width="50%" valign="top">
 
-### AI Fitness Intelligence System
-> End-to-end body composition prediction and personalised workout planning engine
+### AI DRIVEN FITNESS INTELLIGENCE SYSTEM
+> End-to-end ML pipeline for body composition analysis and workout planning
 
 - Predicts body fat percentage from 12 physiological inputs
-- XGBoost vs Linear Regression model comparison pipeline
+- XGBoost vs Linear Regression — rigorous model comparison pipeline
 - Home and gym workout plan generator based on goal and location
-- Full data cleaning pipeline — IQR capping, encoding, scaling
-- R² = 0.995 | MAE = 0.21%
+- Full data cleaning — IQR capping, encoding, scaling pipeline
+- R² = 0.995 &nbsp;|&nbsp; MAE = 0.21%
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0E76A8?style=flat-square)
@@ -179,21 +183,26 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 </td>
 
 </tr>
+</table>
+
+<!-- Row 2 — Light background -->
+<table style="background-color:#f6f8fa;">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#f6f8fa;">
 
 ### AI Job & Skill Gap Analyzer
-> Skill extraction, matching engine, and gap analysis — deployed ML application
+> NLP-powered skill extraction, role matching, and gap analysis
 
-- Extracts skills from job descriptions using NLP
-- Matches user profile against role requirements
-- Highlights skill gaps with actionable learning insights
-- Fully deployed Streamlit application
+- Extracts skills from job descriptions using NLP techniques
+- Matches candidate profile against live role requirements
+- Highlights skill gaps with prioritised learning recommendations
+- Deployed as a fully functional Streamlit application
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 <p>
   <a href="https://ai-job-skill-gap-analyzer.streamlit.app/">
@@ -207,19 +216,20 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color:#f6f8fa;">
 
 ### Movie Recommendation System
-> Content-based recommender built on TMDB data
+> Content-based recommender engine built on TMDB data
 
-- Content-based filtering on tags and metadata
+- Content-based filtering using tags, genres, and metadata
 - TF-IDF vectorization with cosine similarity scoring
-- Recommends top-N similar movies instantly
-- Fully deployed Streamlit application
+- Returns top-N similar movies with instant inference
+- Deployed as a fully functional Streamlit application
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![TMDB](https://img.shields.io/badge/-TMDB%20API-01D277?style=flat-square)
 
 <p>
   <a href="https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/">
@@ -257,19 +267,36 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-## Proof of Work
+## What Sets This Work Apart
 
-| Skill | Evidence |
-|-------|----------|
-| End-to-end ML pipelines | `ColumnTransformer + Pipeline` across all projects |
-| Model comparison & selection | LR vs XGBoost — evaluated on R², MAE, RMSE |
-| Outlier treatment | IQR capping, winsorization, z-score methods |
-| Hyperparameter tuning | `GridSearchCV` with cross-validation |
-| Feature engineering | Encoding, scaling, correlation analysis |
-| Full-stack deployment | Flask + PostgreSQL on Render with Google OAuth |
-| Production deployment | 4 live applications — Render and Streamlit |
-| Clean documentation | Reproducible notebooks and professional READMEs |
-| Portfolio website | Full 3D animated portfolio — [visit here](https://parthtyagi-tech.github.io/portfolio/) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Production over demos**
+Every project is live, publicly accessible, and built to handle real user interactions — not just local notebooks or screenshots.
+
+**Full ownership of the stack**
+Data cleaning, feature engineering, model training, backend API, frontend templates, database design, auth, deployment — handled end to end without outsourcing any layer.
+
+**Honest evaluation**
+Models are compared on R², MAE, and RMSE against baselines. No cherry-picked metrics or overfitted results.
+
+</td>
+<td width="50%" valign="top">
+
+**Progressively complex builds**
+Each project adds a new layer of complexity — from a Streamlit ML app, to an NLP pipeline, to a full-stack production platform with OAuth and PostgreSQL.
+
+**Clean, documented code**
+Every repository has a structured README, reproducible pipelines, and code that can be read, extended, or deployed by someone else.
+
+**Deployment as a first-class concern**
+Shipping is part of the process — not an afterthought. All four projects are live and accessible via public URLs.
+
+</td>
+</tr>
+</table>
 
 ---
 
