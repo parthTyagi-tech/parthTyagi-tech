@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Parth+Tyagi;Applied+ML+Engineer;Building+AI+Systems+End-to-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Parth+Tyagi;Applied+ML+Engineer;Building+AI+Systems+End-to-End" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Applied Machine Learning Engineer</b> &nbsp;•&nbsp; NLP &nbsp;•&nbsp; Recommendation Systems &nbsp;•&nbsp; Data Science
+  <b>Applied Machine Learning Engineer</b> &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Recommendation Systems &nbsp;·&nbsp; Full-Stack AI Applications
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   </a>
   &nbsp;
   <a href="https://parthtyagi-tech.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-58A6FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-58A6FF?style=for-the-badge" />
   </a>
 </p>
 
@@ -28,28 +28,28 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I'm a **B.Tech student in Mathematics & Computing** with a focused interest in **Applied Machine Learning** and **AI system design**.
+I am a **B.Tech student in Mathematics & Computing** with a focused interest in **Applied Machine Learning** and **AI system design**.
 
 My work centres on building complete, production-ready ML pipelines — from raw data and feature engineering through to model evaluation and live deployment. I value clean code, honest model evaluation, and systems that actually work outside of notebooks.
 
-Currently building towards a career in **ML Engineering**, with hands-on experience across regression, NLP, and recommendation systems — all deployed as real applications.
+Currently building towards a career in **ML Engineering**, with hands-on experience across regression, NLP, recommendation systems, and full-stack Flask applications — all deployed as real, live applications.
 
 > *"Build things that work. Document things that last."*
 
 </td>
 <td width="40%" valign="top">
 
-**🎓 Degree** &nbsp;&nbsp; B.Tech — Mathematics & Computing  
-**🎯 Focus** &nbsp;&nbsp;&nbsp;&nbsp; Applied AI & Machine Learning  
-**🔁 Approach** &nbsp; Data → Model → Deploy  
-**📍 Status** &nbsp;&nbsp;&nbsp;&nbsp; Open to ML Engineering roles  
-**🌐 Portfolio** &nbsp; [parthtyagi-tech.github.io/portfolio](https://parthtyagi-tech.github.io/portfolio/)
+**Degree** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B.Tech — Mathematics & Computing  
+**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applied AI & Machine Learning  
+**Approach** &nbsp; Data → Model → Deploy  
+**Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to ML Engineering roles  
+**Portfolio** &nbsp;&nbsp; [parthtyagi-tech.github.io/portfolio](https://parthtyagi-tech.github.io/portfolio/)
 
 <br/>
 
@@ -61,44 +61,51 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-## 🛠 Technical Expertise
+## Technical Expertise
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-**🧩 Programming & Development**
+**Programming & Development**
+
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white)
 
-**📊 Data Engineering & Analysis**
+**Data Engineering & Analysis**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-Feature%20Engineering-orange?style=flat-square)
 
-**📈 Visualization**
+**Visualization**
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
 
 </td>
 <td valign="top" width="50%">
 
-**🤖 Machine Learning**
+**Machine Learning**
+
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=flat-square)
 ![Pipelines](https://img.shields.io/badge/ML%20Pipelines-ColumnTransformer-green?style=flat-square)
 ![GridSearchCV](https://img.shields.io/badge/GridSearchCV-Hyperparameter%20Tuning-blueviolet?style=flat-square)
 
-**🚀 Deployment & Tooling**
+**Deployment & Tooling**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Joblib](https://img.shields.io/badge/Joblib-Model%20Serialization-yellow?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20API-Learning-lightgrey?style=flat-square)
+![REST API](https://img.shields.io/badge/REST%20API-Flask%20Backend-lightgrey?style=flat-square)
 
-**📚 Currently Expanding**
+**Currently Expanding**
+
 ![Advanced ML](https://img.shields.io/badge/Advanced%20ML%20Optimization-in%20progress-orange?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend%20API%20Integration-in%20progress-orange?style=flat-square)
+![Auth Systems](https://img.shields.io/badge/OAuth%20%26%20Auth%20Systems-in%20progress-orange?style=flat-square)
 
 </td>
 </tr>
@@ -106,21 +113,53 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🏋️ AI Fitness Intelligence System
-> End-to-end body composition prediction + personalised workout planning engine
+### AI Fitness Intelligence Platform
+> Production-grade full-stack Flask application with ML-powered body fat prediction, Google OAuth, referral system, and progress tracking
 
-- 🔬 Predicts **body fat %** from 12 physiological inputs
-- ⚔️ **XGBoost vs Linear Regression** — model comparison pipeline
-- 🏠 Home & gym workout plan generator
-- 🧹 Full data cleaning: IQR capping, encoding, scaling
-- 📊 R² = **0.995** &nbsp;|&nbsp; MAE = **0.21%**
+- Predicts body fat percentage from 12+ physiological inputs via XGBoost
+- Full authentication system — email/password and Google OAuth login
+- Guest prediction flow — try before signup, results saved on registration
+- Referral system with unique per-user referral links
+- Progress dashboard with body fat trend chart over time
+- Shareable result cards — WhatsApp, Twitter, clipboard
+- Custom weekly workout splits for gym and home training
+- Deployed on Render with PostgreSQL database
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-0E76A8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square)
+
+<p>
+  <a href="https://ai-fitness-api-68n1.onrender.com">
+    <img src="https://img.shields.io/badge/Live%20App-Launch-success?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parthTyagi-tech/AI-Fitness-API">
+    <img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### AI Fitness Intelligence System
+> End-to-end body composition prediction and personalised workout planning engine
+
+- Predicts body fat percentage from 12 physiological inputs
+- XGBoost vs Linear Regression model comparison pipeline
+- Home and gym workout plan generator based on goal and location
+- Full data cleaning pipeline — IQR capping, encoding, scaling
+- R² = 0.995 | MAE = 0.21%
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-0E76A8?style=flat-square)
@@ -129,25 +168,28 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p>
   <a href="https://ai-driven-fitness-intelligence-systemgit-xt9iwnappfn2qmgudqduc.streamlit.app">
-    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20App-Launch-success?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://github.com/parthTyagi-tech/AI-Driven-Fitness-Intelligence-System">
-    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+<tr>
 
-### 🔍 AI Job & Skill Gap Analyzer
-> Skill extraction + matching engine + deployed ML app
+<td width="50%" valign="top">
 
-- 🧠 Extracts skills from job descriptions using NLP
-- 📊 Matches user profile against role requirements
-- 📉 Highlights skill gaps with actionable insights
-- 🚀 Fully deployed Streamlit application
+### AI Job & Skill Gap Analyzer
+> Skill extraction, matching engine, and gap analysis — deployed ML application
+
+- Extracts skills from job descriptions using NLP
+- Matches user profile against role requirements
+- Highlights skill gaps with actionable learning insights
+- Fully deployed Streamlit application
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
@@ -155,25 +197,25 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p>
   <a href="https://ai-job-skill-gap-analyzer.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20App-Launch-success?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer">
-    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎬 Movie Recommendation System
-> Content-based recommender using TMDB data
+### Movie Recommendation System
+> Content-based recommender built on TMDB data
 
-- 🎯 Content-based filtering on tags + metadata
-- 🔢 TF-IDF vectorization + cosine similarity
-- 🎥 Recommends top-N similar movies instantly
-- 🚀 Fully deployed Streamlit application
+- Content-based filtering on tags and metadata
+- TF-IDF vectorization with cosine similarity scoring
+- Recommends top-N similar movies instantly
+- Fully deployed Streamlit application
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -181,11 +223,11 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p>
   <a href="https://movie-recommend-system-3nhywrira9utd9yyjlsw6f.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Live%20App-Launch-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20App-Launch-success?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://github.com/parthTyagi-tech/Movie-Recommend-System">
-    <img src="https://img.shields.io/badge/📂%20Repo-View-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -196,13 +238,13 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p align="center">
   <a href="https://parthtyagi-tech.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20View%20Full%20Portfolio%20Website-58A6FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio%20Website-58A6FF?style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
@@ -215,22 +257,19 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 ---
 
-
-## 📌 Proof of Work
+## Proof of Work
 
 | Skill | Evidence |
 |-------|----------|
-| ✅ End-to-end ML pipelines | `ColumnTransformer + Pipeline` across all projects |
-| ✅ Model comparison & selection | LR vs XGBoost — evaluated on R², MAE, RMSE |
-| ✅ Outlier treatment | IQR capping, winsorization, z-score methods |
-| ✅ Hyperparameter tuning | `GridSearchCV` with cross-validation |
-| ✅ Feature engineering | Encoding, scaling, correlation analysis |
-| ✅ Production deployment | 3 live Streamlit apps |
-| ✅ Clean documentation | Reproducible notebooks & professional READMEs |
-| ✅ Portfolio website | Full 3D animated portfolio — [visit here](https://parthtyagi-tech.github.io/portfolio/) |
-
----
-
+| End-to-end ML pipelines | `ColumnTransformer + Pipeline` across all projects |
+| Model comparison & selection | LR vs XGBoost — evaluated on R², MAE, RMSE |
+| Outlier treatment | IQR capping, winsorization, z-score methods |
+| Hyperparameter tuning | `GridSearchCV` with cross-validation |
+| Feature engineering | Encoding, scaling, correlation analysis |
+| Full-stack deployment | Flask + PostgreSQL on Render with Google OAuth |
+| Production deployment | 4 live applications — Render and Streamlit |
+| Clean documentation | Reproducible notebooks and professional READMEs |
+| Portfolio website | Full 3D animated portfolio — [visit here](https://parthtyagi-tech.github.io/portfolio/) |
 
 ---
 
@@ -240,6 +279,6 @@ Currently building towards a career in **ML Engineering**, with hands-on experie
 
 <p align="center">
   <a href="https://parthtyagi-tech.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-parthtyagi--tech.github.io%2Fportfolio-58A6FF?style=flat-square" />
+    <img src="https://img.shields.io/badge/Portfolio-parthtyagi--tech.github.io%2Fportfolio-58A6FF?style=flat-square" />
   </a>
 </p>
