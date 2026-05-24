@@ -22,32 +22,42 @@
 </div>
 
 ---
-
 ## ⚡ Who I Am
 
-python
+```python
 class ParthTyagi:
-    degree      = "B.Tech - Mathematics & Computing"
-    focus       = ["Applied AI/ML", "AI/ML Engineering", "Full-Stack AI Apps"]
-    experience  = ["YBI Foundation (Intern)", "Deloitte Virtual", "TATA GenAI Virtual"]
-    philosophy  = "Build things that work. Document things that last."
-    currently   = "Open to AI/ML Engineering roles"
+    degree = "B.Tech - Mathematics & Computing"
+    
+    focus = [
+        "Applied AI/ML",
+        "LLM Applications",
+        "Full-Stack AI Engineering"
+    ]
+
+    experience = [
+        "YBI Foundation Intern",
+        "Deloitte Virtual Experience Program",
+        "TATA GenAI Virtual Experience"
+    ]
+
+    philosophy = "Build scalable AI systems that solve real problems."
+    
+    currently = "Open to AI/ML Engineer and GenAI Intern roles"
 
     def what_i_do(self):
         return [
-            "Build RAG pipelines with LLMs and vector databases",
-            "Ship full-stack AI apps from data to deployment",
-            "Own the entire stack - model, backend, database, auth, deploy",
-            "Turn Jupyter notebooks into live products real users can open"
+            "Build RAG pipelines using LLMs and vector databases",
+            "Develop full-stack AI applications from backend to deployment",
+            "Work across APIs, authentication, databases, and AI integration",
+            "Transform ML prototypes into production-ready applications"
         ]
+
 
 parth = ParthTyagi()
 print(parth.what_i_do())
-``
+```
 
-> 💡 I bridge the gap between a notebook and a live product. Every project goes end-to-end: **raw data → cleaned pipeline → trained model → deployed API → real users**. No halfway-done work.
-
----
+> 💡 I enjoy building end-to-end AI products that go beyond notebooks — from data preprocessing and model development to deployed APIs and real-world user experiences. My goal is to create practical, scalable, and production-ready AI solutions.
 
 ## 🚀 Featured Projects
 
