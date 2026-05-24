@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20ML%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -28,10 +28,10 @@
 python
 class ParthTyagi:
     degree      = "B.Tech — Mathematics & Computing"
-    focus       = ["Applied AI", "ML Engineering", "Full-Stack AI Apps"]
+    focus       = ["Applied AI/ML", "AI/ML Engineering", "Full-Stack AI Apps"]
     experience  = ["YBI Foundation (Intern)", "Deloitte Virtual", "TATA GenAI Virtual"]
     philosophy  = "Build things that work. Document things that last."
-    currently   = "Open to ML Engineering roles"
+    currently   = "Open to AI/ML Engineering roles"
     
     def what_i_do(self):
         return [
@@ -157,7 +157,7 @@ Recommender engine built on TMDB data using NLP-powered similarity scoring acros
 <td valign="top" width="33%">
 
 **AI & ML**
-``
+
 GPT-4o / LLM APIs
 LangChain / RAG
 Pinecone (Vector DB)
@@ -165,13 +165,13 @@ XGBoost / Scikit-learn
 TF-IDF / NLP
 OpenAI Embeddings
 TensorFlow
-```
+``
 
 </td>
 <td valign="top" width="33%">
 
 **Backend & Data**
-```
+`
 Python (Advanced)
 Flask / REST APIs
 PostgreSQL
@@ -185,7 +185,7 @@ Gunicorn
 <td valign="top" width="33%">
 
 **Frontend & Deploy**
-``
+
 React / JavaScript
 HTML / CSS
 Streamlit
