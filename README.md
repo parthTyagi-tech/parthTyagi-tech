@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20ML%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -25,24 +25,27 @@
 
 ## ⚡ Who I Am
 
-python
+```python
 class ParthTyagi:
-    degree      = "B.Tech — Mathematics & Computing"
+    degree      = "B.Tech - Mathematics & Computing"
     focus       = ["Applied AI/ML", "AI/ML Engineering", "Full-Stack AI Apps"]
     experience  = ["YBI Foundation (Intern)", "Deloitte Virtual", "TATA GenAI Virtual"]
     philosophy  = "Build things that work. Document things that last."
     currently   = "Open to AI/ML Engineering roles"
-    
+
     def what_i_do(self):
         return [
             "Build RAG pipelines with LLMs and vector databases",
             "Ship full-stack AI apps from data to deployment",
-            "Own the entire stack — model, backend, database, auth, deploy",
+            "Own the entire stack - model, backend, database, auth, deploy",
             "Turn Jupyter notebooks into live products real users can open"
         ]
-``
 
-> I bridge the gap between a notebook and a live product. Every project goes end-to-end: raw data → cleaned pipeline → trained model → deployed API → real users. No halfway-done work.
+parth = ParthTyagi()
+print(parth.what_i_do())
+```
+
+> 💡 I bridge the gap between a notebook and a live product. Every project goes end-to-end: **raw data → cleaned pipeline → trained model → deployed API → real users**. No halfway-done work.
 
 ---
 
@@ -152,52 +155,48 @@ Recommender engine built on TMDB data using NLP-powered similarity scoring acros
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+### 🖥️ Programming Languages
 
-**AI & ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
 
-GPT-4o / LLM APIs
-LangChain / RAG
-Pinecone (Vector DB)
-XGBoost / Scikit-learn
-TF-IDF / NLP
-OpenAI Embeddings
-TensorFlow
-``
+### 🤖 AI & ML
 
-</td>
-<td valign="top" width="33%">
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-00C389?style=for-the-badge&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0E76A8?style=for-the-badge&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Backend & Data**
-`
-Python (Advanced)
-Flask / REST APIs
-PostgreSQL
-SQLAlchemy
-Pandas / NumPy
-JWT / Google OAuth
-Gunicorn
-``
+### 🔧 Frameworks & Backend
 
-</td>
-<td valign="top" width="33%">
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logoColor=white)
 
-**Frontend & Deploy**
+### 🚀 Deployment & Tools
 
-React / JavaScript
-HTML / CSS
-Streamlit
-Render / Vercel
-Git / GitHub
-Postman
-Matplotlib / Seaborn
-``
-
-</td>
-</tr>
-</table>
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
