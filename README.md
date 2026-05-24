@@ -210,18 +210,6 @@ Recommender engine built on TMDB data using NLP-powered similarity scoring acros
 
 ---
 
-## 💼 Experience
-
-**YBI Foundation — ML Engineering Intern** *(May 2025 – July 2025)*
-- Designed and deployed end-to-end ML pipelines improving workflow efficiency by **30%**
-- Boosted model accuracy to **75–85%** through structured preprocessing and cross-validation
-- Built predictive pipelines using Python, Pandas, Scikit-learn
-
-**Deloitte — Data Analytics Virtual Experience** *(June 2025)*
-- Conducted EDA on 10K+ record enterprise datasets for forensic analytics investigations
-
-**TATA — GenAI Powered Data Analytics Virtual Experience** *(June 2025)*
-- Applied Gen-AI analytics to financial risk indicators; improved delinquency prediction accuracy by **20%**
 
 ---
 
