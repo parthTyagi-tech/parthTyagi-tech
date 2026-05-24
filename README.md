@@ -25,7 +25,7 @@
 
 ## ⚡ Who I Am
 
-```python
+python
 class ParthTyagi:
     degree      = "B.Tech — Mathematics & Computing"
     focus       = ["Applied AI", "ML Engineering", "Full-Stack AI Apps"]
@@ -40,7 +40,7 @@ class ParthTyagi:
             "Own the entire stack — model, backend, database, auth, deploy",
             "Turn Jupyter notebooks into live products real users can open"
         ]
-```
+``
 
 > I bridge the gap between a notebook and a live product. Every project goes end-to-end: raw data → cleaned pipeline → trained model → deployed API → real users. No halfway-done work.
 
@@ -157,7 +157,7 @@ Recommender engine built on TMDB data using NLP-powered similarity scoring acros
 <td valign="top" width="33%">
 
 **AI & ML**
-```
+``
 GPT-4o / LLM APIs
 LangChain / RAG
 Pinecone (Vector DB)
@@ -179,13 +179,13 @@ SQLAlchemy
 Pandas / NumPy
 JWT / Google OAuth
 Gunicorn
-```
+``
 
 </td>
 <td valign="top" width="33%">
 
 **Frontend & Deploy**
-```
+``
 React / JavaScript
 HTML / CSS
 Streamlit
@@ -193,7 +193,7 @@ Render / Vercel
 Git / GitHub
 Postman
 Matplotlib / Seaborn
-```
+``
 
 </td>
 </tr>
