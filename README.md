@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20ML%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Parth%20Tyagi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20Full-Stack%20AI%20Builder%20%7C%20Ships%20to%20Production&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -12,12 +12,12 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyagiparth/)
 [![Gmail](https://img.shields.io/badge/Gmail-parthtyagi3389@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthtyagi3389@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://parthtyagi-tech.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthTyagi-tech?tab=repositories)
 
-![Profile Views](https://komarev.com/ghpvc/?username=parthTyagi-tech&label=Profile+Views&color=58A6FF&style=flat-square)
+
 
 </div>
 
@@ -25,7 +25,7 @@
 
 ## ⚡ Who I Am
 
-```python
+python
 class ParthTyagi:
     degree      = "B.Tech - Mathematics & Computing"
     focus       = ["Applied AI/ML", "AI/ML Engineering", "Full-Stack AI Apps"]
@@ -43,7 +43,7 @@ class ParthTyagi:
 
 parth = ParthTyagi()
 print(parth.what_i_do())
-```
+``
 
 > 💡 I bridge the gap between a notebook and a live product. Every project goes end-to-end: **raw data → cleaned pipeline → trained model → deployed API → real users**. No halfway-done work.
 
