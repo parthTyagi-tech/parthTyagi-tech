@@ -34,7 +34,7 @@ class ParthTyagi:
 
     experience = [
         "Full-Stack Engineer Intern @ Intellexia Tech Pvt. Ltd.",
-        "Machine Learning Intern @ YBI Foundation",
+        "AI/ML Intern @ YBI Foundation",
         "Data Analytics Virtual Exp @ Deloitte",
         "GenAI Analytics Virtual Exp @ TATA"
     ]
