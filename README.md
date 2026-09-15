@@ -34,7 +34,7 @@ Production systems on GCP Cloud Run, Cloud Tasks, and Vertex AI
 
 ## 1. Dynamic Pricing Intelligence Platform
 
- ###Flagship multi-agent system
+ ### Flagship multi-agent system
  
 Autonomous agent swarm that extracts, verifies, and reprices products across live marketplaces with governed, explainable decisions.
 
@@ -67,7 +67,7 @@ Hard margin floors (`Price >= Cost + Margin`) and ±50% sanity bounds intercept 
 
 ## 2. MediAssist
 
-###Production RAG and real-time voice AI
+### Production RAG and real-time voice AI
 Retrieval-grounded medical assistant with multilingual voice, persistent memory, and streaming responses.
 
 ### Architecture
@@ -97,7 +97,7 @@ Persistent user memory with auto-summarized chat history via SQLAlchemy keeps co
 
 ## 3. AI Fitness Intelligence System
 
-###Production ML with low-latency inference
+### Production ML with low-latency inference
 Full-stack biometric prediction platform serving real users, owned end-to-end from training to deployment.
 
 ### Architecture
