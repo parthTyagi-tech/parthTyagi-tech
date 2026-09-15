@@ -6,7 +6,7 @@
 
 **Building deterministic multi-agent architectures, low-latency voice AI, and scalable RAG pipelines.**
 
-B.Tech Mathematics and Computing @ Central University of Karnataka
+B.Tech Mathematics and Computing @ Central University of Karnataka 
 Production systems on GCP Cloud Run, Cloud Tasks, and Vertex AI
 
 [![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-FF6B35?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/parthTyagi-tech/parthTyagi-tech)
@@ -34,7 +34,8 @@ Production systems on GCP Cloud Run, Cloud Tasks, and Vertex AI
 
 ## 1. Dynamic Pricing Intelligence Platform
 
-> **Flagship multi-agent system.** Autonomous agent swarm that extracts, verifies, and reprices products across live marketplaces with governed, explainable decisions.
+> ###Flagship multi-agent system
+>  Autonomous agent swarm that extracts, verifies, and reprices products across live marketplaces with governed, explainable decisions.
 
 ### Architecture
 
@@ -65,7 +66,8 @@ Hard margin floors (`Price >= Cost + Margin`) and ±50% sanity bounds intercept 
 
 ## 2. MediAssist
 
-> **Production RAG and real-time voice AI.** Retrieval-grounded medical assistant with multilingual voice, persistent memory, and streaming responses.
+> ###Production RAG and real-time voice AI
+>  Retrieval-grounded medical assistant with multilingual voice, persistent memory, and streaming responses.
 
 ### Architecture
 
@@ -94,7 +96,8 @@ Persistent user memory with auto-summarized chat history via SQLAlchemy keeps co
 
 ## 3. AI Fitness Intelligence System
 
-> **Production ML with low-latency inference.** Full-stack biometric prediction platform serving real users, owned end-to-end from training to deployment.
+> ###Production ML with low-latency inference
+> Full-stack biometric prediction platform serving real users, owned end-to-end from training to deployment.
 
 ### Architecture
 
@@ -140,6 +143,7 @@ Feature design, model training and tuning, API surface, auth, database schema, a
 
 - Engineered end-to-end classification and regression pipelines with scikit-learn and Pandas; cross-validation and hyperparameter tuning raised classification F1 from **0.70 to 0.85** and improved baseline predictive accuracy by **97%**.
 - Ran exploratory analysis and visualization to drive model selection and feature design.
+- Conducted exploratory data analysis and visualization using Python (Pandas, NumPy, Matplotlib/Seaborn) to uncover trends and inform model selection and feature design.
 
 ---
 
@@ -198,19 +202,6 @@ Feature design, model training and tuning, API surface, auth, database schema, a
 
 ---
 
-# GitHub Activity
-
-<div align="center">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=86400)](https://github.com/parthTyagi-tech)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)](https://github.com/parthTyagi-tech)
-
-</div>
-
----
-
-<div align="center">
 
 ### Open to Full-Stack AI Engineer, LLM/RAG Engineer, and Applied AI Systems roles
 
