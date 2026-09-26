@@ -12,7 +12,7 @@ Ex-AI Engineer Intern @ Intellexia AI · Ex-AI/ML Intern @ YBI Foundation
 
 <br/><br/>
 
-[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-FF6B35?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1jSM277m2g84-18GVY-5ENhuDXU_djkG9/view?usp=sharing)&nbsp;&nbsp;
+[![Resume]([https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-FF6B35?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1jSM277m2g84-18GVY-5ENhuDXU_djkG9/view?usp=sharing](https://drive.google.com/file/d/1uaBkoc8SGx50-5laFi3tSnLhOo8g2Bf3/view?usp=sharing))&nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://parthtyagi-tech.github.io/portfolio/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyagiparth/)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthtyagi3389@gmail.com)
