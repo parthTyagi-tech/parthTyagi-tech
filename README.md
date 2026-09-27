@@ -20,7 +20,7 @@
 </div>
 
 ---
-## ⚡ Who I Am
+##   Who I Am
 
 ```python
 class ParthTyagi:
@@ -57,16 +57,16 @@ print(parth.what_i_do())
 
 > 💡 I enjoy building end-to-end AI products that go beyond notebooks — from RAG pipelines and real-time voice AI to full-stack FastAPI/React platforms. My goal is to create practical, scalable, and production-ready solutions on Google Cloud and Render.
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 MediAssist — Clinical RAG Agent & Voice AI *(Latest)*
+###  MediAssist — Clinical RAG Agent & Voice AI *(Latest)*
 > **Flask + Groq (Llama 3.3-70B) + Pinecone | Redis Streams | Multilingual Voice AI**
 
 A clinical RAG agent built for real-time use — sub-ms triage routing, async-decoupled memory, and continuous evaluation, not just a chatbot demo.
 
-- ⚡ **Clinical Engine & Voice AI** — built a <50MB RAM clinical RAG agent on Flask, Groq, and Pinecone with a sub-ms intent router and a 7-language WebRTC voice agent (LiveKit + Deepgram)
-- 🔁 **Async Reliability (Redis Streams)** — decoupled memory, summarization, and evals via Redis Streams with SHA-256 deduplication and DLQ routing, ensuring <3000ms response latency
-- 📊 **Evaluation & Observability** — deployed an 11-metric LLM-as-judge pipeline pairing an offline 30-case clinical benchmark with 20% online shadow evals in LangSmith, plus Brevo alerts
+-   **Clinical Engine & Voice AI** — built a <50MB RAM clinical RAG agent on Flask, Groq, and Pinecone with a sub-ms intent router and a 7-language WebRTC voice agent (LiveKit + Deepgram)
+-   **Async Reliability (Redis Streams)** — decoupled memory, summarization, and evals via Redis Streams with SHA-256 deduplication and DLQ routing, ensuring <3000ms response latency
+-   **Evaluation & Observability** — deployed an 11-metric LLM-as-judge pipeline pairing an offline 30-case clinical benchmark with 20% online shadow evals in LangSmith, plus Brevo alerts
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -81,14 +81,14 @@ A clinical RAG agent built for real-time use — sub-ms triage routing, async-de
 
 ---
 
-### 💰 Dynamic Pricing Intelligence Platform
+###   Dynamic Pricing Intelligence Platform
 > **Autonomous Agentic AI Swarm | GCP Cloud Tasks | Flask + React**
 
 Production-grade AI/ML full-stack project: agents that extract, verify, and reprice products across 14 live marketplaces — with hallucination-proof guardrails baked into the code.
 
-- 🤖 **Autonomous Agentic AI Swarm** — architected goal-driven agents (Supervisor, Scrapers, Reasoning, Approver) executing continuous Plan → Act → Observe → Adapt loops to extract, verify, and reprice products across 14 marketplaces
-- 🛡️ **Agentic Guardrails & Governance** — enforced deterministic margin floors (Price ≥ Cost + Margin) and ±50% sanity limits to eliminate LLM hallucinations, persisting every decision to an immutable audit log
-- ⚙️ **Event-Driven Agent Infrastructure** — scaled multi-agent orchestration via asynchronous pub/sub task queues (Local / GCP Cloud Tasks), streaming real-time agent reasoning steps to a React dashboard via SSE
+-   **Autonomous Agentic AI Swarm** — architected goal-driven agents (Supervisor, Scrapers, Reasoning, Approver) executing continuous Plan → Act → Observe → Adapt loops to extract, verify, and reprice products across 14 marketplaces
+-   **Agentic Guardrails & Governance** — enforced deterministic margin floors (Price ≥ Cost + Margin) and ±50% sanity limits to eliminate LLM hallucinations, persisting every decision to an immutable audit log
+-   **Event-Driven Agent Infrastructure** — scaled multi-agent orchestration via asynchronous pub/sub task queues (Local / GCP Cloud Tasks), streaming real-time agent reasoning steps to a React dashboard via SSE
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -100,14 +100,14 @@ Production-grade AI/ML full-stack project: agents that extract, verify, and repr
 
 ---
 
-### 💪 AI-Driven Fitness Intelligence System
+###   AI-Driven Fitness Intelligence System
 > **Full-Stack Flask App | Google OAuth | XGBoost**
 
 Solo-owned fitness platform serving active end-users, from model training through production deployment.
 
-- 🎯 **Multi-target regression pipeline** — estimating 12 biometric indicators, maintaining a 0.21% MAE while serving predictions in <50ms via optimized API endpoints
-- 🔐 **Full-stack web app** — built and deployed with Google OAuth 2.0 authentication and PostgreSQL, supporting active end-users
-- 📈 **End-to-end lifecycle ownership** — ML model training, backend REST APIs, OAuth authentication, and production deployment on Render
+-   **Multi-target regression pipeline** — estimating 12 biometric indicators, maintaining a 0.21% MAE while serving predictions in <50ms via optimized API endpoints
+-   **Full-stack web app** — built and deployed with Google OAuth 2.0 authentication and PostgreSQL, supporting active end-users
+-   **End-to-end lifecycle ownership** — ML model training, backend REST APIs, OAuth authentication, and production deployment on Render
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -120,21 +120,6 @@ Solo-owned fitness platform serving active end-users, from model training throug
 
 ---
 
-### 🎯 AI Job & Skill Gap Analyzer
-> **NLP | TF-IDF + Cosine Similarity | Streamlit**
-
-Career intelligence platform matching profiles to roles and detecting missing skills.
-
-- 🔍 **90% match accuracy** using TF-IDF + cosine similarity
-- 📋 **Skill-gap detection** comparing candidate vs. job description
-- ⚡ Real-time inference on deployed Streamlit app
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-[![Live App](https://img.shields.io/badge/🌐%20Live%20App-Launch-success?style=for-the-badge)](https://ai-job-skill-gap-analyzer.streamlit.app/)
-[![Repo](https://img.shields.io/badge/Repository-View-181717?style=for-the-badge&logo=github)](https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer)
 
 ---
 
@@ -146,7 +131,7 @@ Career intelligence platform matching profiles to roles and detecting missing sk
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI, LLMs & Frameworks
+###  LLMs & Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -157,7 +142,7 @@ Career intelligence platform matching profiles to roles and detecting missing sk
 ![Pinecone](https://img.shields.io/badge/Pinecone-00C389?style=for-the-badge&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🚀 Cloud & Infrastructure
+###  Cloud & Infrastructure
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -166,7 +151,7 @@ Career intelligence platform matching profiles to roles and detecting missing sk
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -179,15 +164,15 @@ Career intelligence platform matching profiles to roles and detecting missing sk
 
 ---
 
-## 🏆 What Sets This Work Apart
+##  What Sets This Work Apart
 
 | | |
 |---|---|
-| 🚢 **Ships to production** | Every major project is live with a public URL — not just notebooks or screenshots |
-| 🔗 **Full-stack ownership** | Data → model → API → frontend → database → auth → deploy, all in one |
-| 🚀 **Enterprise standard** | Built with Google Cloud Tasks, signed URLs, structured logging, and CI/CD pipelines |
-| 🧱 **Progressive complexity** | Each project adds a new layer — ML basics → Flask + DB → RAG + LLMs → Multi-agent Systems |
-| 📖 **Clean, documented code** | Structured READMEs, reproducible pipelines, scalable architecture |
+|   **Ships to production** | Every major project is live with a public URL — not just notebooks or screenshots |
+|   **Full-stack ownership** | Data → model → API → frontend → database → auth → deploy, all in one |
+|   **Enterprise standard** | Built with Google Cloud Tasks, signed URLs, structured logging, and CI/CD pipelines |
+|   **Progressive complexity** | Each project adds a new layer — ML basics → Flask + DB → RAG + LLMs → Multi-agent Systems |
+|   **Clean, documented code** | Structured READMEs, reproducible pipelines, scalable architecture |
 
 ---
 
