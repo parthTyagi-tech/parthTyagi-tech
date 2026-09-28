@@ -100,14 +100,15 @@ Production-grade AI/ML full-stack project: agents that extract, verify, and repr
 
 ---
 
-###   AI-Driven Fitness Intelligence System
-> **Full-Stack Flask App | Google OAuth | XGBoost**
+### AI-Driven Fitness Intelligence System
+> **Full-Stack Flask App | Scikit-Learn / XGBoost | PostgreSQL**
 
 Solo-owned fitness platform serving active end-users, from model training through production deployment.
 
--   **Multi-target regression pipeline** — estimating 12 biometric indicators, maintaining a 0.21% MAE while serving predictions in <50ms via optimized API endpoints
--   **Full-stack web app** — built and deployed with Google OAuth 2.0 authentication and PostgreSQL, supporting active end-users
--   **End-to-end lifecycle ownership** — ML model training, backend REST APIs, OAuth authentication, and production deployment on Render
+-   **EDA & feature engineering** – analyzed 5K biometric records and engineered clinical ratios (BMI, WHR, WHtR) with leak-free IQR/3σ clipping, cutting MAE by 66% (0.21% → 0.071%)
+-   **Model benchmarking & production engine** – evaluated baselines vs. tree models via 5-fold CV; deployed tuned XGBRegressor achieving 0.997 R² and 0.071% MAE
+-   **Production serving & deployment** – serialized pipeline via Joblib into a Flask REST backend on Render with PostgreSQL, serving predictions in <50ms with OAuth 2.0
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
