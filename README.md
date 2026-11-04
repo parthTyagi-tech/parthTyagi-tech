@@ -25,7 +25,7 @@
 ---
 
 <div align="center">
-
+    
 ###  Quick Navigation
 
 [ Stats](#-github-stats) · [ About](#-about-me) · [ Tech Stack](#️-tech-stack) · [ Featured Projects](#-featured-projects) · [ Deep-Dive Labs](#-deep-dive-technical-labs) · [ Additional Projects](#-additional-ai--ml-projects) · [🗺️ Roadmap](#️-roadmap--focus)
@@ -42,12 +42,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=parthTyagi-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=parthTyagi-tech&theme=tokyonight&hide_border=true" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=parthTyagi-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthTyagi-tech&theme=tokyo-night&hide_border=true" width="48%" />
 
 <br>
@@ -273,19 +273,19 @@ An end-to-end predictive analytics platform modeling body composition and physio
 <div align="center">
 
 <a href="https://github.com/parthTyagi-tech/dynamic-pricing-intelligence-platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthTyagi-tech&repo=dynamic-pricing-intelligence-platform&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=parthTyagi-tech&repo=dynamic-pricing-intelligence-platform&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/parthTyagi-tech/medibot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthTyagi-tech&repo=medibot&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=parthTyagi-tech&repo=medibot&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 <br>
 
 <a href="https://github.com/parthTyagi-tech/AI-Driven-Fitness-Intelligence-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthTyagi-tech&repo=AI-Driven-Fitness-Intelligence-System&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=parthTyagi-tech&repo=AI-Driven-Fitness-Intelligence-System&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 <a href="https://github.com/parthTyagi-tech/AIJobSkillGapAnalyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=parthTyagi-tech&repo=AIJobSkillGapAnalyzer&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=parthTyagi-tech&repo=AIJobSkillGapAnalyzer&theme=tokyonight&hide_border=true" width="48%" />
 </a>
 
 </div>
